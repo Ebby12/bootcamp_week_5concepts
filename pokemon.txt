@@ -1,1 +1,1 @@
-[{"name" : "Pikachu","type" : "Lightning"},{"name" : "Charizard","type" : "Fire"},{"name" : "Togepi","type" : "Fairy"},{"name" : "Ivysaur","type" : "Grass"}]
+[{"name":"Pikachu","type":"Lightning"},{"name":"Charizard","type":"Fire"},{"name":"Togepi","type":"Fairy"},{"name":"Ivysaur","type":"Grass"},{"name":"Pica","type":"Electric"},{"name":"Pica","type":"Electric"},{"name":"Pica","type":"Electric"}]
